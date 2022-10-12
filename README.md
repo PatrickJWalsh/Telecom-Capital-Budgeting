@@ -22,3 +22,14 @@ We were engaged by a leading telecom company to develop a solution that could fo
   - Target Budget needs to exist at the market level for the next 3 years
   - Users need the ability to incorporate “What-if” (scenario) analysis based on common parameters (individual & bulk entry)
   - API integration with existing systems must be available
+
+
+## Collaboration & Personnel Involved
+We Collaborated across various groups within the client’s organization to complete this project, including:
+
+- Met with personnel from lease, backhaul, utilities, roaming, and R&M teams to gather data and to align on forecasting methodology
+- Worked with Client’s Analytics team to understand SQL database for relevant datasets (planned projects within the network)
+- Teamed with finance personnel to determine appropriate target setting methodology for regions and markets
+- Interviewed market and regional directors (future end users) to socialize the proof of concept, refine use cases, and to define the functional requirements for the full solution
+- Communicated with client core team to track progress, escalate issues, and to discuss potential off the shelf solutions for full-scale implementation
+
