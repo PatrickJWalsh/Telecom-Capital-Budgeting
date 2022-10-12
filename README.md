@@ -13,11 +13,11 @@ We were engaged by a leading telecom company to develop a solution that could fo
 
   - (Prior to this, the budget was managed centrally (national team), and targets did not exist at the market (local) levels, so local decision makers had a lack of accountability around operational decisions and their financial trade-offs)
 
-•	Compare Current project plan with alternative scenarios to identify savings opportunities
+- Compare Current project plan with alternative scenarios to identify savings opportunities
 
-  o	Varied build / decommission schedule
-  o	Different tower configurations
-  o	Vendor Selection (lease and backhaul)
+  - Varied build / decommission schedule
+  -	Different tower configurations
+  -	Vendor Selection (lease and backhaul)
 
 •	Define business requirements and UX Design for full-scale solution through Proof of Concept
 o	Historical Cost Coverage including ~10 cost areas within the network
