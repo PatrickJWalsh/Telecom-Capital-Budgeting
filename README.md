@@ -16,9 +16,7 @@ We were engaged by a leading telecom company to develop a solution that could fo
 •	Compare Current project plan with alternative scenarios to identify savings opportunities
 
   o	Varied build / decommission schedule
-
   o	Different tower configurations
-
   o	Vendor Selection (lease and backhaul)
 
 •	Define business requirements and UX Design for full-scale solution through Proof of Concept
