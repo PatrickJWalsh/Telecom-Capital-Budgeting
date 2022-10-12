@@ -33,3 +33,11 @@ We Collaborated across various groups within the client’s organization to comp
 - Interviewed market and regional directors (future end users) to socialize the proof of concept, refine use cases, and to define the functional requirements for the full solution
 - Communicated with client core team to track progress, escalate issues, and to discuss potential off the shelf solutions for full-scale implementation
 
+
+![image](https://user-images.githubusercontent.com/71853253/95625237-2f26ea00-0a46-11eb-9b6e-11b61db8114c.png)
+
+
+
+
+
+
