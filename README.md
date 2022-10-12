@@ -25,3 +25,8 @@ o	Target Budget at the market level for the next 3 years
 o	Ability to incorporate “What-if” (scenario) analysis based on common parameters (individual & bulk entry)
 o	API integration with existing systems
 
+- [Oliver's Four Factors Regression](https://github.com/PatrickJWalsh/NBA-Win-Predictor/blob/main/README.md#olivers-four-factors-regression)
+    - [Predictions](https://github.com/PatrickJWalsh/NBA-Win-Predictor/blob/main/README.md#predictions)
+    - [Feature Analysis](https://github.com/PatrickJWalsh/NBA-Win-Predictor/blob/main/README.md#feature-analysis)
+    - [Summarizing the Results](https://github.com/PatrickJWalsh/NBA-Win-Predictor/blob/main/README.md#summarizing-the-results)
+    - [Visualizing the Results](https://github.com/PatrickJWalsh/NBA-Win-Predictor/blob/main/README.md#visualizing-the-results)
