@@ -34,10 +34,12 @@ We Collaborated across various groups within the client’s organization to comp
 - Communicated with client core team to track progress, escalate issues, and to discuss potential off the shelf solutions for full-scale implementation
 
 
-![image](https://user-images.githubusercontent.com/71853253/95625237-2f26ea00-0a46-11eb-9b6e-11b61db8114c.png)
+## Project Highlights 
+Throughout the project, I accomplished the following:
 
-
-
+- Created ~25 workflows to perform full end to end cleaning, joining, and forecasting of data across 5 primary cost items (lease, backhaul, utilities, repair & maintenance, and roaming) 
+- Built Power BI Dashboard to visualize baseline spend, financial targets, and forecasts for multiple scenarios at the market level 
+- Led interviews with Market and regional directors to understand desired functionality within the solution and use cases within the organization
 
 
 
