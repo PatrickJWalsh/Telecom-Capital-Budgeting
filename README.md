@@ -46,6 +46,18 @@ Throughout the project, I accomplished the following:
 
 ![image](https://user-images.githubusercontent.com/71853253/195449208-978418f0-8806-4024-8ea9-548c2e14b442.png)
 
+### Alteryx Workflow Example
+![image](https://user-images.githubusercontent.com/71853253/195454231-38ae8ff5-b222-45a7-83e1-20b8d56ce574.png)
+
+### Power BI Dasboard - Forecast and Target
+![image](https://user-images.githubusercontent.com/71853253/195454283-7bdd0b07-61ba-45c9-a7a1-27bcb7c7f02a.png)
+
+### User Personas and Use Cases
+![image](https://user-images.githubusercontent.com/71853253/195454329-59b5e827-1fe2-40af-86f0-f3a25422ceb8.png)
+
+### Market Research Findings (Off the Shelf Solution)
+![image](https://user-images.githubusercontent.com/71853253/195454386-32431e5e-b4b6-4e8f-8bee-49d7a33c8b6f.png)
+
 
 
 
