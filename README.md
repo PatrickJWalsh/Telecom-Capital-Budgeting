@@ -42,4 +42,12 @@ Throughout the project, I accomplished the following:
 - Led interviews with Market and regional directors to understand desired functionality within the solution and use cases within the organization
 
 
+### Alteryx Workflow Diagram
+
+![image](https://user-images.githubusercontent.com/71853253/195449208-978418f0-8806-4024-8ea9-548c2e14b442.png)
+
+
+
+
+
 
