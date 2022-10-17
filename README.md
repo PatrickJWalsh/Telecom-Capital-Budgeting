@@ -15,7 +15,7 @@ We were engaged by a leading telecom company to develop a solution that could fo
 - **Compare current project plan with alternative scenarios to identify savings opportunities**
   - Varied build / decommission schedule
   -	Different tower configurations
-  -	Vendor Selection (lease and backhaul)
+  -	Vendor selection (for lease and backhaul)
 
 - **Define business requirements and UX Design for full-scale solution**
   - Solution needs to have 2 years of historical costs including ~10 cost areas within the network
