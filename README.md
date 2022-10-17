@@ -12,7 +12,7 @@ We were engaged by a leading telecom company to develop a solution that could fo
 - **Guide operational decision-making and proactively address potential budget risks by providing target financial performance metrics**
   - Prior to this, the budget was managed centrally (national team), and targets did not exist at the market (local) levels, so local decision makers had a lack of accountability around operational decisions and their financial trade-offs
 
-- **Compare Current project plan with alternative scenarios to identify savings opportunities**
+- **Compare current project plan with alternative scenarios to identify savings opportunities**
   - Varied build / decommission schedule
   -	Different tower configurations
   -	Vendor Selection (lease and backhaul)
