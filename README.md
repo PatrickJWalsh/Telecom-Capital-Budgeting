@@ -7,17 +7,17 @@ This document serves to summarize the project scope and output from our engageme
 
 
 ## Project Scope
-We were engaged by a leading telecom company to develop a solution that could forecast the cash and Opex impact of projects within the cell-site network over the next 3 years at the site-level of granularity.  By building a proof of concept, we accomplished the following:
+We were engaged by a leading telecom company to develop a solution that could forecast the cash and Opex impact of projects within the cell-site network over the next 3 years at the site-level of granularity.  During our project, we built a solution to:
 
-- **Guided operational decision-making and proactively addressed potential budget risks by providing target financial performance metrics**
+- **Guide operational decision-making and proactively address potential budget risks by providing target financial performance metrics**
   - Prior to this, the budget was managed centrally (national team), and targets did not exist at the market (local) levels, so local decision makers had a lack of accountability around operational decisions and their financial trade-offs
 
-- **Compared Current project plan with alternative scenarios to identify savings opportunities**
+- **Compare Current project plan with alternative scenarios to identify savings opportunities**
   - Varied build / decommission schedule
   -	Different tower configurations
   -	Vendor Selection (lease and backhaul)
 
-- **Defined business requirements and UX Design for full-scale solution through Proof of Concept**
+- **Define business requirements and UX Design for full-scale solution**
   - Solution needs to have 2 years of historical costs including ~10 cost areas within the network
   - Target Budget needs to exist at the market level for the next 3 years
   - Users need the ability to incorporate “What-if” (scenario) analysis based on common parameters (individual & bulk entry)
