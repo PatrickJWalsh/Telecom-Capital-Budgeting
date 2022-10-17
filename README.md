@@ -7,7 +7,7 @@ This document serves to summarize the project scope and output from our engageme
 
 
 ## Project Scope
-We were engaged by a leading telecom company to develop a solution that could forecast the cash and Opex impact of projects within the cell-site network over the next 3 years at the site-level of granularity.  During our project, we built a solution to:
+We were engaged by a leading telecom company to develop a solution that could forecast the cash and Opex impact of projects within the cell-site network over the next 3 years at the site-level of granularity.  During our project, we built a proof of concept solution to:
 
 - **Guide operational decision-making and proactively address potential budget risks by providing target financial performance metrics**
   - Prior to this, the budget was managed centrally (national team), and targets did not exist at the market (local) levels, so local decision makers had a lack of accountability around operational decisions and their financial trade-offs
