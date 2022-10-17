@@ -18,7 +18,7 @@ We were engaged by a leading telecom company to develop a solution that could fo
   -	Vendor selection (for lease and backhaul)
 
 - **Define business requirements and UX Design for full-scale solution**
-  - Solution needs to have 2 years of historical costs including ~10 cost areas within the network
+  - Solution needs to store 2 years of historical costs including ~10 cost areas within the network
   - Target Budget needs to exist at the market level for the next 3 years
   - Users need the ability to incorporate “What-if” (scenario) analysis based on common parameters (individual & bulk entry)
   - API integration with existing systems must be available
