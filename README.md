@@ -19,26 +19,26 @@ We were engaged by a leading telecom company to develop a solution that could fo
 
 - **Define business requirements and UX Design for full-scale solution**
   - Solution needs to store 2 years of historical costs including ~10 cost areas within the network
-  - Target Budget needs to exist at the market level for the next 3 years
+  - Target budget needs to exist at the market level of granularity and must extend for 3 years
   - Users need the ability to incorporate “What-if” (scenario) analysis based on common parameters (individual & bulk entry)
   - API integration with existing systems must be available
 
 
 ## Collaboration & Personnel Involved
-We Collaborated across various groups within the client’s organization to complete this project, including:
+We collaborated across various groups within the client’s organization to complete this project, including:
 
 - Met with personnel from lease, backhaul, utilities, roaming, and R&M teams to gather data and to align on forecasting methodology
 - Worked with Client’s Analytics team to understand SQL database for relevant datasets (planned projects within the network)
 - Teamed with finance personnel to determine appropriate target setting methodology for regions and markets
 - Interviewed market and regional directors (future end users) to socialize the proof of concept, refine use cases, and to define the functional requirements for the full solution
-- Communicated with client core team to track progress, escalate issues, and to discuss potential off the shelf solutions for full-scale implementation
+- Communicated weekly with client core team to track progress, escalate issues, and to discuss potential off the shelf solutions for full-scale implementation
 
 
 ## Project Highlights 
 Throughout the project, I accomplished the following:
 
-- Created ~25 workflows to perform full end to end cleaning, joining, and forecasting of data across 5 primary cost items (lease, backhaul, utilities, repair & maintenance, and roaming) 
-- Built Power BI Dashboard to visualize baseline spend, financial targets, and forecasts for multiple scenarios at the market level 
+- Created ~25 alteryx workflows to perform full end to end cleaning, joining, and forecasting of data across 5 primary cost items (lease, backhaul, utilities, repair & maintenance, and roaming) 
+- Built Power BI Dashboard to visualize baseline spend, financial targets, and forecasts for multiple scenarios 
 - Led interviews with Market and regional directors to understand desired functionality within the solution and use cases within the organization
 
 
